@@ -1,9 +1,9 @@
 ---
 archetype: "blog-post"
-title: "How To Choose a Restoration Company in  (Without Getting Burned)"
-h1: "How To Choose a Restoration Company in  (Without Getting Burned)"
+title: "How To Choose a Restoration Company in Cranberry Township (Without Getting Burned)"
+h1: "How To Choose a Restoration Company in Cranberry Township (Without Getting Burned)"
 meta_description: ""
-primary_keyword: "how to choose a restoration company in  without getting burned"
+primary_keyword: "how to choose a restoration company in cranberry township without getting burned"
 secondary_keywords: ["water damage restoration", "fire damage restoration", "mold remediation"]
 search_intent: "commercial_decision"
 priority: 5.4
@@ -11,7 +11,7 @@ plan_hash: "0cb75dafabbc7aaa"
 generated_at: "2026-07-09T05:48:56.509105+00:00"
 manual_override: false
 internal_links: ["/blog/", "/services/fire-damage-restoration/", "/services/mold-remediation/", "/services/water-damage-restoration/", "/blog/burst-pipe-emergency-checklist/", "/blog/what-to-do-first-24-hours-water-damage/", "/blog/does-homeowners-insurance-cover-water-damage/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "How To Choose a Restoration Company in  (Without Getting Burned)"}]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "How To Choose a Restoration Company in Cranberry Township (Without Getting Burned)"}]
 faq: [{"question": "Can I use any restoration company I want, or does my insurance company get to choose?", "answer": "In Pennsylvania, you have the right to choose your own contractor, your insurer cannot legally require you to use a specific company. Your insurance company may have a preferred vendor network and may suggest names, but the final choice is yours. That said, your chosen contractor will need to work within the claim process, so pick one with experience documenting losses in a format adjusters accept."}, {"question": "How quickly does mold start growing after a water leak?", "answer": "Under the right conditions, warm temperatures, organic material like drywall or wood, and sustained moisture, mold can begin colonizing within 24 to 48 hours of a water intrusion. This is why the drying timeline matters so much: a water damage job that drags on for a week without proper equipment creates a secondary mold problem. If a leak has been slow and undetected for weeks or months, assume mold is already present and have the area tested before starting any reconstruction."}, {"question": "What is an Assignment of Benefits (AOB), and should I sign one?", "answer": "An AOB is a legal document that transfers your right to collect insurance proceeds directly to the contractor. It can streamline payment, but it also removes you from the claim negotiation, the contractor and your insurer settle the scope and dollar amount without your direct involvement. If you sign one, read it carefully first, confirm there's a clear dispute resolution process, and make sure you understand what you're authorizing. Never sign an AOB under pressure or before you've reviewed the scope of work."}, {"question": "What's the difference between mitigation and restoration, and why does it matter for my claim?", "answer": "Mitigation is the emergency phase: stopping further damage, extracting water, deploying drying equipment, removing unsalvageable materials. Restoration (sometimes called reconstruction) is the rebuild phase: replacing drywall, flooring, cabinets, and finishes. Insurance policies typically cover both, but they're often billed as separate line items and may involve different scopes. Knowing the distinction helps you ask the right questions when reviewing estimates and ensures nothing falls through the gap between the two phases."}]
 published_at: "2026-06-30"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]
