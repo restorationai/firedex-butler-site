@@ -16,6 +16,7 @@ faq: [{"question": "How long does it take for mold to grow after water damage?",
 published_at: "2026-07-05"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Bob Randig"
 ---
 If water just flooded part of your home, here is what matters most in the next 24 hours: stop the source, cut the power to affected areas, remove standing water as fast as possible, and start airflow. Every hour you wait, water migrates further into walls, subfloor, and insulation, and after 24 to 48 hours, mold can begin colonizing wet materials. The steps below are in order of priority. Work through them as quickly as your situation safely allows.
 

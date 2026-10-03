@@ -16,6 +16,7 @@ faq: [{"question": "How long do I have to file a storm damage insurance claim in
 published_at: "2026-06-25"
 services: ["storm-damage-restoration"]
 rendered: true
+author: "Bob Randig"
 ---
 Before you dial your insurance company after a storm, stop. The single biggest mistake homeowners make is calling their insurer before they have anything documented. Adjusters move fast, and once an initial assessment is recorded, it's hard to add damage you find later. This checklist walks you through exactly what to gather, photos, written records, temporary repair receipts, contractor notes, so that when you do make that call, you're in control of the conversation instead of scrambling to catch up.
 

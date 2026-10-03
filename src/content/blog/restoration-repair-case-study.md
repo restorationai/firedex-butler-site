@@ -17,6 +17,7 @@ faq: [{"question": "How long does it typically take to get a repair estimate aft
 published_at: "2026-09-29"
 services: []
 rendered: true
+author: "Bob Randig"
 ---
 Some restoration calls start with a flooded basement at 2 a.m. This one starts quieter: a homeowner who needed repair work done right, on a schedule that actually held, from the first estimate to the final walkthrough. That's the kind of call Sue made to FireDEX Butler, and her review is short enough to read in full.
 

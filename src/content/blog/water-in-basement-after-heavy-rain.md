@@ -17,6 +17,7 @@ faq: [{"question": "Why does my basement flood every time it rains heavily?", "a
 published_at: "2026-09-22"
 services: ["basement-flooding-cleanup", "storm-damage-restoration", "flood-damage-restoration"]
 rendered: true
+author: "Bob Randig"
 ---
 **TL;DR:** Water in the basement after heavy rain comes from three distinct sources: surface water driven in by poor grading or clogged downspouts, hydrostatic pressure pushing groundwater through foundation walls or floor cracks, or a failed sump pump or drain that could not keep up. The fix and the insurance coverage differ for each. Surface intrusion is often a grading correction. Seepage through block walls usually needs a waterproofing contractor. Sump failure cleanup is a restoration job. Mold can begin growing within 24 to 48 hours of any of these events, so drying time matters as much as finding the source.
 

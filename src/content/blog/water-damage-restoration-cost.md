@@ -17,6 +17,7 @@ faq: [{"question": "How much does water damage restoration cost in Western PA?",
 published_at: "2026-09-20"
 services: ["water-damage-restoration", "basement-flooding-cleanup", "burst-pipe-repair"]
 rendered: true
+author: "Bob Randig"
 ---
 **TL;DR:** Water damage restoration in Western PA typically costs $1,500 to $12,000 for mitigation alone, with most losses falling in the $3,000 to $7,000 range. The biggest cost drivers are the category of water involved (clean, gray, or sewage), how many square feet are affected, how many days of drying equipment run, and whether structural reconstruction follows mitigation. Most residential claims are covered by homeowners insurance, so the out-of-pocket number is often just your deductible.
 

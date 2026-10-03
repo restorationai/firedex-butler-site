@@ -17,6 +17,7 @@ faq: [{"question": "What is Category 3 water damage?", "answer": "Category 3 wat
 published_at: "2026-09-24"
 services: ["sewage-cleanup", "water-damage-restoration", "mold-remediation"]
 rendered: true
+author: "Bob Randig"
 ---
 **TL;DR:** Category 3 water damage, also called black water, is the most hazardous water classification defined by the [IICRC S500 standard](https://www.iicrc.org/page/IICRCS500). It includes sewage backups, floodwater from outside, and any water that has been sitting long enough to become grossly contaminated. Porous materials that contact Category 3 water, including drywall, insulation, carpet, and padding, must be removed rather than dried in place. The longer you wait, the more material gets condemned and the higher the mold risk becomes.
 

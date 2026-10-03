@@ -17,6 +17,7 @@ faq: [{"question": "How much does water damage restoration cost in PA?", "answer
 published_at: "2026-08-31"
 services: []
 rendered: true
+author: "Bob Randig"
 ---
 **TL;DR:** Water damage restoration in Pennsylvania typically runs $1,500 to $12,000 for most residential losses. A small clean-water appliance leak in a single room lands closer to $1,500 to $3,500. A finished basement flooded by a failed sump pump or a burst pipe that soaked two floors can reach $8,000 to $15,000 or more. The biggest cost drivers are the category of water (clean vs. gray vs. sewage), how many rooms are affected, and whether finished materials like drywall, flooring, and cabinetry need to come out. Every loss is different, and FireDEX Butler provides a written scope before any work begins.
 

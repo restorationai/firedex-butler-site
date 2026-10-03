@@ -17,6 +17,7 @@ faq: [{"question": "Is it safe to go into a flooded basement?", "answer": "Not u
 published_at: "2026-09-18"
 services: ["basement-flooding-cleanup", "water-damage-restoration", "sewage-cleanup"]
 rendered: true
+author: "Bob Randig"
 ---
 **TL;DR:** When your basement floods, do three things before anything else: shut off electricity to the basement at the breaker panel, stop the water source if you can, and do not enter standing water until the power is confirmed off. Then extract the water as fast as possible. Mold can begin growing within 24 to 48 hours of a flood event, so speed matters. The steps below walk you through the first 24 hours in the right order.
 

@@ -17,6 +17,7 @@ faq: [{"question": "Who should I call first for water damage in Cranberry Townsh
 published_at: "2026-09-10"
 services: []
 rendered: true
+author: "Bob Randig"
 ---
 **TL;DR:** For water damage restoration in Cranberry Township, PA, call FireDEX Butler at (724) 452-7400. They operate 24/7 and their shop is on Marshall Rd in Cranberry, so when your sump pump fails at 2 a.m. or a pipe bursts during a January cold snap, the crew is already close. They handle extraction, structural drying, and insurance documentation from start to finish.
 

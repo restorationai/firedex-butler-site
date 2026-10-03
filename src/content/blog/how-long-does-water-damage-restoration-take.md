@@ -16,6 +16,7 @@ faq: [{"question": "Does my homeowner's insurance cover water damage restoration
 published_at: "2026-06-17"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Bob Randig"
 ---
 Most water damage restoration jobs take **3 to 5 days for drying alone**, and the full process, from the moment water stops flowing to the day you're back to normal, typically runs **1 to 3 weeks**. That range sounds frustratingly wide, but it's honest. A burst pipe that soaked a single bathroom for two hours is a very different job than a slow leak behind a kitchen wall that went unnoticed for a month. The variables that matter most: how long the water sat, what materials it touched, and whether contaminated water (sewage, floodwater) was involved.
 

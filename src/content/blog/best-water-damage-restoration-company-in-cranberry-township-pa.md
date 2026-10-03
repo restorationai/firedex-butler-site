@@ -17,6 +17,7 @@ faq: [{"question": "Who is the best water damage restoration company in Cranberr
 published_at: "2026-08-27"
 services: []
 rendered: true
+author: "Bob Randig"
 ---
 FireDEX Butler is the top-rated water damage restoration company in Cranberry Township, PA, with 24/7 emergency response and a shop on Marshall Rd that puts crews on-site faster than any company driving up from Pittsburgh. They have operated in Butler County since 1981 and hold Pennsylvania Home Improvement Contractor Registration (PA001913).
 

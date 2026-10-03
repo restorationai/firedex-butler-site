@@ -16,6 +16,7 @@ faq: [{"question": "Does homeowner's insurance cover a burst pipe?", "answer": "
 published_at: "2026-06-23"
 services: ["water-damage-restoration", "appliance-leak-cleanup"]
 rendered: true
+author: "Bob Randig"
 ---
 When a pipe bursts, the first five minutes matter more than the next five hours. Shut off your home's main water supply valve immediately, it's usually near the water meter, in the basement, or in a utility closet. Then cut power to any rooms where water is pooling near outlets or panels. Once the water stops flowing and electricity is no longer a hazard, you can start assessing the damage. Everything after that follows a clear sequence, and that's what this checklist covers.
 

@@ -16,6 +16,7 @@ faq: [{"question": "How accurate are the mold test kits sold at hardware stores?
 published_at: "2026-06-25"
 services: ["mold-remediation", "mold-inspection-testing"]
 rendered: true
+author: "Bob Randig"
 ---
 Testing for mold in your home comes down to one core question: do you need a number, or do you need answers? DIY air-sampling kits can tell you whether mold spores are present in a room, but they rarely tell you what species, where the colony is growing, or whether the count is dangerous. A professional inspection does all three. If you already see or smell mold, skip the kit entirely and go straight to a pro. If you have a vague concern after a past leak or a musty odor you can't locate, this guide will help you decide which path makes sense.
 

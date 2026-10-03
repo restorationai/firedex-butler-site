@@ -17,6 +17,7 @@ faq: [{"question": "What is the very first thing to do after a house fire?", "an
 published_at: "2026-10-02"
 services: ["fire-damage-restoration", "smoke-damage-restoration", "soot-removal"]
 rendered: true
+author: "Bob Randig"
 ---
 **TL;DR:** In the first 24 hours after a house fire, get everyone to a safe distance, let the fire department fully clear the structure before anyone goes back in, arrange emergency board-up to secure doors and windows, call your insurance company to open a claim, and start a written, photographed list of damaged belongings before anything gets moved or cleaned. Don't eat food, run appliances, or sleep in a smoke-affected home until a professional has assessed air quality and structural safety.
 

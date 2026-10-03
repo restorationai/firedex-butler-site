@@ -16,6 +16,7 @@ faq: [{"question": "Does homeowners insurance cover water damage from a burst pi
 published_at: "2026-06-21"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Bob Randig"
 ---
 Homeowners insurance *usually* covers water damage, but only when the water arrived suddenly and accidentally, not because of a slow leak or a maintenance problem you could have caught. That one sentence explains most of the confusion people have after a pipe bursts or an appliance floods a room. The short version: a washing machine hose that blows out at 2 a.m. is almost certainly covered. A supply line that dripped behind a cabinet for six months and rotted the subfloor probably isn't. Read on and you'll be able to look at your own situation and make a confident call before you even dial your agent.
 

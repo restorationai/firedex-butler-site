@@ -16,6 +16,7 @@ faq: [{"question": "Can a home test kit from the hardware store tell me if I hav
 published_at: "2026-06-25"
 services: ["mold-remediation"]
 rendered: true
+author: "Bob Randig"
 ---
 Most mold you find in a home is not the notorious "black mold" you've read about, but that doesn't mean it's harmless. The short answer: color alone cannot tell you whether mold is dangerous. *Stachybotrys chartarum*, the species commonly called black mold, is dark greenish-black and slimy, but dozens of other mold species also appear black, brown, or dark gray. Meanwhile, some genuinely hazardous molds grow in white, green, or pink. What actually matters is the species, the concentration, and where it's growing, and those things require testing to confirm.
 

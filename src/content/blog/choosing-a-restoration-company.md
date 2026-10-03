@@ -16,6 +16,7 @@ faq: [{"question": "Can I use any restoration company I want, or does my insuran
 published_at: "2026-06-30"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]
 rendered: true
+author: "Bob Randig"
 ---
 Choosing the wrong restoration company after a flood, fire, or mold discovery can cost you more than the original damage. Fly-by-night contractors, inflated scopes, and shoddy drying jobs are real problems in this industry, and when you're stressed, displaced, and dealing with an insurance claim, it's easy to sign something you'll regret. The short answer: verify credentials before anyone touches your property, get the scope of work in writing, and never let urgency replace due diligence. The sections below walk you through exactly how to do that.
 

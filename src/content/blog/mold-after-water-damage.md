@@ -16,6 +16,7 @@ faq: [{"question": "Can mold grow inside walls without any visible signs on the 
 published_at: "2026-06-30"
 services: ["mold-remediation", "water-damage-restoration"]
 rendered: true
+author: "Bob Randig"
 ---
 Mold can begin colonizing wet materials in as little as 24 to 48 hours after water exposure, not days, not weeks. That timeline starts the moment moisture contacts drywall, wood framing, carpet padding, or insulation. By 72 hours, active spore colonies are often visible or detectable by smell. By the end of the first week, mold can spread across several square feet of material and begin releasing spores into your air supply. The short version: if water got somewhere it shouldn't have, the clock is already running.
 

@@ -16,6 +16,7 @@ faq: [{"question": "How long does it take for mold to grow after a water leak?",
 published_at: "2026-06-25"
 services: ["mold-remediation"]
 rendered: true
+author: "Bob Randig"
 ---
 Mold doesn't always announce itself with a black wall or a flooded basement. More often it grows quietly inside a wall cavity, under a bathroom subfloor, or behind a kitchen cabinet, invisible until the damage is already significant. If you've noticed a musty smell, an unexplained cough, or a water stain that came and went, you may already be living with hidden mold. Here are seven specific signs to look for, what each one means, and the steps to take before the problem gets worse.
 
