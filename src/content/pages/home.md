@@ -1,10 +1,10 @@
 ---
 archetype: "home"
-title: "FireDEX Butler | Restoration Services in Cranberry Township, PA"
-h1: "24/7 Restoration Services in Cranberry Township"
-meta_description: "FireDEX Butler provides 24/7 water, fire, mold, and storm damage restoration across Cranberry Township and surrounding areas. Licensed, insured. Call (724) 452-7400."
-primary_keyword: "restoration services cranberry township"
-secondary_keywords: ["restoration company near me", "24/7 damage restoration", "emergency restoration"]
+title: "Water Damage Restoration in Cranberry Township, PA | FireDEX Butler"
+h1: "24/7 Water Damage Restoration in Cranberry Township, PA"
+meta_description: "FireDEX Butler provides water damage restoration in Cranberry Township, PA, answering 24/7. Licensed and insured. Call (724) 452-7400 now."
+primary_keyword: "water damage restoration cranberry township"
+secondary_keywords: ["best restoration company in cranberry township", "restoration company cranberry township", "water damage restoration near me"]
 search_intent: "local_commercial"
 priority: 5.0
 plan_hash: "4bbc525f0e8dc0c1"
