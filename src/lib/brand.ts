@@ -61,7 +61,7 @@ export const brand = {
   certifications: [] as string[],
   trustBadges: [] as string[],
   jobPhotos: [] as string[],
-  sameAsUrls: ["https://www.google.com/maps?cid=14805396469301132499", "https://www.linkedin.com/in/cathi-olinger-82523515", "https://www.homeadvisor.com/rated.FiredexofButlerInc.22614897.html"] as string[],
+  sameAsUrls: ["https://www.google.com/maps?cid=14805396469301132499", "https://www.linkedin.com/in/cathi-olinger-82523515", "https://www.yelp.com/biz/firedex-butler-cranberry-twp", "https://acrirlty.com/provider/firedex-butler/", "https://www.homeadvisor.com/rated.FiredexofButlerInc.22614897.html"] as string[],
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "3.7",
