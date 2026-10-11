@@ -33,7 +33,7 @@ The ranges are wide because four variables move the number significantly. The se
 
 ## How does water category affect the cost?
 
-The [IICRC S500 standard](https://www.iicrc.org/page/IICRCS500) classifies water losses into three categories, and the category is the single biggest cost driver after square footage.
+The [IICRC S500 standard](https://iicrc.org/s500/) classifies water losses into three categories, and the category is the single biggest cost driver after square footage.
 
 **Category 1 (clean water)** comes from a supply line, a water heater, or a washing machine hose. It's the least expensive to remediate because the water itself isn't a contamination hazard. A Category 1 loss in a single finished room typically runs $1,500 to $4,000 for extraction and structural drying.
 
@@ -76,7 +76,7 @@ A mid-size basement loss might run 2 dehumidifiers and 6 to 8 air movers for 5 d
 
 ## Does homeowners insurance cover water damage restoration?
 
-Most standard homeowners policies cover sudden, accidental water damage, which means the majority of mitigation costs are an insurance claim, not an out-of-pocket expense. Your deductible (commonly $1,000 to $2,500) is usually the only amount you pay directly. The [Insurance Information Institute](https://www.iii.org/article/what-covered-standard-homeowners-policy) has a plain-English breakdown of what standard policies include.
+Most standard homeowners policies cover sudden, accidental water damage, which means the majority of mitigation costs are an insurance claim, not an out-of-pocket expense. Your deductible (commonly $1,000 to $2,500) is usually the only amount you pay directly. The [Insurance Information Institute](https://www.iii.org/article/what-is-covered-by-standard-homeowners-insurance) has a plain-English breakdown of what standard policies include.
 
 What is typically covered:
 - Burst pipes and supply-line failures

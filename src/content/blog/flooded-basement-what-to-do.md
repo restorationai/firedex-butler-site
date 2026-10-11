@@ -33,7 +33,7 @@ One more thing: figure out where the water came from before you wade in. The sou
 
 ## What Kind of Water Is in Your Basement?
 
-The water category determines how you handle cleanup and what your insurance will cover. The [IICRC S500 Standard for Professional Water Damage Restoration](https://www.iicrc.org/page/IICRCS500) defines three categories:
+The water category determines how you handle cleanup and what your insurance will cover. The [IICRC S500 Standard for Professional Water Damage Restoration](https://iicrc.org/s500/) defines three categories:
 
 - **Category 1 (clean water):** Broken supply lines, a failed water heater, a burst pipe. Relatively safe to contact. This is the most common basement flood in newer construction.
 - **Category 2 (gray water):** Washing machine discharge, sump pump overflow carrying soil and debris, dishwasher backflow. Contains contaminants. Requires PPE and proper disposal.

@@ -19,7 +19,7 @@ services: ["sewage-cleanup", "water-damage-restoration", "mold-remediation"]
 rendered: true
 author: "Bob Randig"
 ---
-**TL;DR:** Category 3 water damage, also called black water, is the most hazardous water classification defined by the [IICRC S500 standard](https://www.iicrc.org/page/IICRCS500). It includes sewage backups, floodwater from outside, and any water that has been sitting long enough to become grossly contaminated. Porous materials that contact Category 3 water, including drywall, insulation, carpet, and padding, must be removed rather than dried in place. The longer you wait, the more material gets condemned and the higher the mold risk becomes.
+**TL;DR:** Category 3 water damage, also called black water, is the most hazardous water classification defined by the [IICRC S500 standard](https://iicrc.org/s500/). It includes sewage backups, floodwater from outside, and any water that has been sitting long enough to become grossly contaminated. Porous materials that contact Category 3 water, including drywall, insulation, carpet, and padding, must be removed rather than dried in place. The longer you wait, the more material gets condemned and the higher the mold risk becomes.
 
 You came home to a basement full of sewage backup, or you found standing water that has been sitting in your home for several days. Either way, you are dealing with something more serious than a burst pipe. The water classification system used by restoration professionals is not just industry jargon. It determines what can be saved, what has to go, and how the work gets done safely. Here is what you need to know before anyone touches anything.
 
@@ -63,7 +63,7 @@ If you have a finished basement with drywall, carpet, and insulated walls, a Cat
 
 ## Why does timing matter so much?
 
-Every hour of delay after a Category 3 event increases the volume of material that must be removed and the probability of secondary mold growth. Mold can begin colonizing wet organic materials within 24 to 48 hours under the right temperature and humidity conditions, as the [CDC notes in its mold cleanup guidance](https://www.cdc.gov/mold/cleanup-guide.html).
+Every hour of delay after a Category 3 event increases the volume of material that must be removed and the probability of secondary mold growth. Mold can begin colonizing wet organic materials within 24 to 48 hours under the right temperature and humidity conditions, as the [CDC notes in its mold cleanup guidance](https://www.cdc.gov/mold-health/about/index.html).
 
 The escalation works in two directions at once. Contaminated water continues to wick upward and laterally into more drywall and framing. At the same time, the biological load in the water increases as bacteria multiply. A job that might have involved removing 4 feet of drywall on day one can expand to 8 feet by day three, simply because the water climbed higher as it wicked.
 
