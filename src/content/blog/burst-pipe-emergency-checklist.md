@@ -62,7 +62,7 @@ The water you can see is rarely the whole problem.
 
 If the burst pipe is behind drywall, you may notice a soft or bubbling section of wall, a musty smell developing over 24–48 hours, or paint that starts to peel without an obvious source. In finished basements, common in the newer construction throughout Butler County, water can travel under luxury vinyl plank or laminate flooring for several feet before showing at the surface.
 
-Appliance supply lines are another frequent source of hidden damage. A refrigerator ice-maker line or a washing machine hose that fails slowly can saturate the subfloor under a finished laundry room for weeks before anyone notices. If you're dealing with that kind of slow leak rather than a sudden burst, the extraction and drying process is similar, but the affected area is often larger than expected. [Appliance leak cleanup](/appliance-leak-cleanup) follows the same structural drying protocol as a pipe burst, the source just requires a different repair trade.
+Appliance supply lines are another frequent source of hidden damage. A refrigerator ice-maker line or a washing machine hose that fails slowly can saturate the subfloor under a finished laundry room for weeks before anyone notices. If you're dealing with that kind of slow leak rather than a sudden burst, the extraction and drying process is similar, but the affected area is often larger than expected. Appliance leak cleanup follows the same structural drying protocol as a pipe burst, the source just requires a different repair trade.
 
 Thermal imaging cameras and calibrated moisture meters are the only reliable way to map where water actually traveled. This is one of the main reasons professional assessment adds value even when the visible damage looks manageable.
 
@@ -79,7 +79,7 @@ You can handle the immediate steps above on your own. But call a restoration con
 - Your moisture readings (if you have a meter) are still elevated after 48 hours of fan and dehumidifier use
 - You're filing an insurance claim and need documented scope of loss
 
-Professional [water damage restoration](/water-damage-restoration) uses commercial-grade drying equipment, high-CFM air movers, desiccant or refrigerant dehumidifiers, that pulls moisture out of structural materials at a rate household fans simply can't match. The goal is to dry the structure to pre-loss moisture levels, typically within three to five days, before any repairs begin.
+Professional [water damage restoration](/services/water-damage-restoration/) uses commercial-grade drying equipment, high-CFM air movers, desiccant or refrigerant dehumidifiers, that pulls moisture out of structural materials at a rate household fans simply can't match. The goal is to dry the structure to pre-loss moisture levels, typically within three to five days, before any repairs begin.
 
 ---
 
