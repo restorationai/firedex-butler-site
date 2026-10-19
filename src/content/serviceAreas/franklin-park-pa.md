@@ -19,7 +19,7 @@ state: "PA"
 primary: false
 rendered: true
 ---
-FireDEX Butler handles water, fire, storm, and mold damage restoration for homeowners and property managers throughout Franklin Park, from first extraction and drying through the reconstruction that follows. Our crews are IICRC certified and documented for insurance billing, which matters in a township where many homes carry finished basements and higher-value renovations that insurers scrutinize closely before releasing funds.
+FireDEX Butler handles water, fire, storm, and mold damage restoration for homeowners and property managers throughout Franklin Park, from first extraction and drying through the reconstruction that follows. Our work is documented for insurance billing, which matters in a township where many homes carry finished basements and higher-value renovations that insurers scrutinize closely before releasing funds.
 
 ## Restoration emergencies common in Franklin Park
 

@@ -47,7 +47,7 @@ The category of water is the single biggest cost driver in any restoration job. 
 Beyond category, these factors move the number:
 
 - **Square footage affected.** Restoration is priced partly by area. A 200-square-foot laundry room is a different job than a 1,000-square-foot finished basement.
-- **Class of water intrusion.** The IICRC also classifies losses by evaporation rate (Class 1 through 4). A Class 4 loss, where water has saturated concrete, hardwood subfloor, or plaster, requires specialty drying equipment and longer dry times.
+- **Class of water intrusion.** The same S500 standard also classifies losses by evaporation rate (Class 1 through 4). A Class 4 loss, where water has saturated concrete, hardwood subfloor, or plaster, requires specialty drying equipment and longer dry times.
 - **Finished vs. unfinished materials.** Bare concrete and open-stud walls dry faster and cheaper than drywall, insulation, engineered hardwood, and tile backer board. Finished basements in Park Place or Marshall Heights routinely add $3,000 to $6,000 in material removal and replacement costs.
 - **Response time.** Water that sits 24 to 48 hours begins growing mold. The [EPA's mold guidance](https://www.epa.gov/mold) recommends drying within 24 to 48 hours. A job that comes in fast stays a water job. A job that waits becomes a water-and-mold job, and remediation adds cost. See our post on [how quickly mold grows after water damage](/blog/mold-after-water-damage/) for the timeline.
 - **Structural materials affected.** If water reached wall framing, subfloor sheathing, or ceiling joists, those materials may need to come out and be rebuilt. Reconstruction is a separate line item from mitigation.

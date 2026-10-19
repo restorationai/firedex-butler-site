@@ -19,7 +19,7 @@ state: "PA"
 primary: false
 rendered: true
 ---
-FireDEX Butler handles water, fire, storm, and mold damage restoration for homeowners throughout Bell Acres, from the first call through insurance documentation and final reconstruction. Property owners here deal with hillside drainage, older private septic and well systems, and seasonal freeze-thaw cycles that strain older plumbing and foundations differently than in denser parts of Allegheny County. We bring IICRC-trained crews and 24/7 scheduling to a borough where the nearest large commercial restoration outfit is often a longer drive than homeowners expect.
+FireDEX Butler handles water, fire, storm, and mold damage restoration for homeowners throughout Bell Acres, from the first call through insurance documentation and final reconstruction. Property owners here deal with hillside drainage, older private septic and well systems, and seasonal freeze-thaw cycles that strain older plumbing and foundations differently than in denser parts of Allegheny County. We bring trained crews and 24/7 scheduling to a borough where the nearest large commercial restoration outfit is often a longer drive than homeowners expect.
 
 ## Restoration emergencies common in Bell Acres
 
