@@ -49,7 +49,7 @@ export const brand = {
   // Analytics — set post-scaffold (scripts/analytics_set.py / create_ga4.py); no-op if empty
   ga4MeasurementId: "G-65LP4WBQWM",
   clarityProjectId: "",
-  logoUrl: "",
+  logoUrl: "/images/logo.png",
   licenseNumbers: ["PA001913"] as string[],
   licenseAuthority: "Pennsylvania Attorney General — Home Improvement Contractor Registration",
   // State license-verification page — the footer links the license number here.
