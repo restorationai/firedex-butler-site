@@ -1,0 +1,218 @@
+{
+ "/service-areas/aliquippa-pa/soot-removal": {
+  "planned": "/service-areas/aliquippa-pa/smoke-damage-restoration/",
+  "now": "/service-areas/aliquippa-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/aliquippa-pa/water-cleanup": {
+  "planned": "/service-areas/aliquippa-pa/emergency-water-removal/",
+  "now": "/service-areas/aliquippa-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/allison-park-pa/soot-removal": {
+  "planned": "/service-areas/allison-park-pa/smoke-damage-restoration/",
+  "now": "/service-areas/allison-park-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/allison-park-pa/water-cleanup": {
+  "planned": "/service-areas/allison-park-pa/emergency-water-removal/",
+  "now": "/service-areas/allison-park-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/baden-pa/soot-removal": {
+  "planned": "/service-areas/baden-pa/smoke-damage-restoration/",
+  "now": "/service-areas/baden-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/baden-pa/water-cleanup": {
+  "planned": "/service-areas/baden-pa/emergency-water-removal/",
+  "now": "/service-areas/baden-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/beaver-falls-pa/water-cleanup": {
+  "planned": "/service-areas/beaver-falls-pa/emergency-water-removal/",
+  "now": "/service-areas/beaver-falls-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/bell-acres-pa/soot-removal": {
+  "planned": "/service-areas/bell-acres-pa/smoke-damage-restoration/",
+  "now": "/service-areas/bell-acres-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/bell-acres-pa/water-cleanup": {
+  "planned": "/service-areas/bell-acres-pa/emergency-water-removal/",
+  "now": "/service-areas/bell-acres-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/big-beaver-pa/soot-removal": {
+  "planned": "/service-areas/big-beaver-pa/smoke-damage-restoration/",
+  "now": "/service-areas/big-beaver-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/big-beaver-pa/water-cleanup": {
+  "planned": "/service-areas/big-beaver-pa/emergency-water-removal/",
+  "now": "/service-areas/big-beaver-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/butler-pa/water-cleanup": {
+  "planned": "/service-areas/butler-pa/emergency-water-removal/",
+  "now": "/service-areas/butler-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/economy-pa/soot-removal": {
+  "planned": "/service-areas/economy-pa/smoke-damage-restoration/",
+  "now": "/service-areas/economy-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/economy-pa/water-cleanup": {
+  "planned": "/service-areas/economy-pa/emergency-water-removal/",
+  "now": "/service-areas/economy-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/ellwood-city-pa/soot-removal": {
+  "planned": "/service-areas/ellwood-city-pa/smoke-damage-restoration/",
+  "now": "/service-areas/ellwood-city-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/ellwood-city-pa/water-cleanup": {
+  "planned": "/service-areas/ellwood-city-pa/emergency-water-removal/",
+  "now": "/service-areas/ellwood-city-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/evans-city-pa/water-cleanup": {
+  "planned": "/service-areas/evans-city-pa/emergency-water-removal/",
+  "now": "/service-areas/evans-city-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/franklin-park-pa/soot-removal": {
+  "planned": "/service-areas/franklin-park-pa/smoke-damage-restoration/",
+  "now": "/service-areas/franklin-park-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/franklin-park-pa/water-cleanup": {
+  "planned": "/service-areas/franklin-park-pa/emergency-water-removal/",
+  "now": "/service-areas/franklin-park-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/gibsonia-pa/water-cleanup": {
+  "planned": "/service-areas/gibsonia-pa/emergency-water-removal/",
+  "now": "/service-areas/gibsonia-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/glenshaw-pa/soot-removal": {
+  "planned": "/service-areas/glenshaw-pa/smoke-damage-restoration/",
+  "now": "/service-areas/glenshaw-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/glenshaw-pa/water-cleanup": {
+  "planned": "/service-areas/glenshaw-pa/emergency-water-removal/",
+  "now": "/service-areas/glenshaw-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/mars-pa/water-cleanup": {
+  "planned": "/service-areas/mars-pa/emergency-water-removal/",
+  "now": "/service-areas/mars-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/monaca-pa/soot-removal": {
+  "planned": "/service-areas/monaca-pa/smoke-damage-restoration/",
+  "now": "/service-areas/monaca-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/monaca-pa/water-cleanup": {
+  "planned": "/service-areas/monaca-pa/emergency-water-removal/",
+  "now": "/service-areas/monaca-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/oak-hills-pa/soot-removal": {
+  "planned": "/service-areas/oak-hills-pa/smoke-damage-restoration/",
+  "now": "/service-areas/oak-hills-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/oak-hills-pa/water-cleanup": {
+  "planned": "/service-areas/oak-hills-pa/emergency-water-removal/",
+  "now": "/service-areas/oak-hills-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/prospect-pa/soot-removal": {
+  "planned": "/service-areas/prospect-pa/smoke-damage-restoration/",
+  "now": "/service-areas/prospect-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/prospect-pa/water-cleanup": {
+  "planned": "/service-areas/prospect-pa/emergency-water-removal/",
+  "now": "/service-areas/prospect-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/seven-fields-pa/water-cleanup": {
+  "planned": "/service-areas/seven-fields-pa/emergency-water-removal/",
+  "now": "/service-areas/seven-fields-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/sewickley-heights-pa/soot-removal": {
+  "planned": "/service-areas/sewickley-heights-pa/smoke-damage-restoration/",
+  "now": "/service-areas/sewickley-heights-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/sewickley-heights-pa/water-cleanup": {
+  "planned": "/service-areas/sewickley-heights-pa/emergency-water-removal/",
+  "now": "/service-areas/sewickley-heights-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/sewickley-hills-pa/soot-removal": {
+  "planned": "/service-areas/sewickley-hills-pa/smoke-damage-restoration/",
+  "now": "/service-areas/sewickley-hills-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/sewickley-hills-pa/water-cleanup": {
+  "planned": "/service-areas/sewickley-hills-pa/emergency-water-removal/",
+  "now": "/service-areas/sewickley-hills-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/wexford-pa/water-cleanup": {
+  "planned": "/service-areas/wexford-pa/emergency-water-removal/",
+  "now": "/service-areas/wexford-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/zelienople-pa/water-cleanup": {
+  "planned": "/service-areas/zelienople-pa/emergency-water-removal/",
+  "now": "/service-areas/zelienople-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ }
+}
