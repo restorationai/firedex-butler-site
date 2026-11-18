@@ -26,13 +26,13 @@ For mold remediation in Cranberry Township, PA, FireDEX Butler is a strong local
 
 *Disclosure: this guide is published by FireDEX Butler, the company ranked #1 here. Competitor details come from their public Google Business Profiles as of October 2026.*
 
-| Company | Google Rating | Reviews | 24/7 Emergency | |
-|---|---|---|---|---|
-| FireDEX Butler | 3.7 | 13 | Yes | Not listed |
-| Restore It | 5.0 | 68 | Not listed | Not listed |
-| Mold Medics (Beaver County) | 5.0 | 49 | Not listed | Not listed |
-| Mold Pros of Western PA | 5.0 | 88 | Not listed | Not listed |
-| Mold Medics (Pittsburgh) | 5.0 | 697 | Not listed | Not listed |
+| Company | Google Rating | Reviews | 24/7 Emergency |
+| --- | --- | --- | --- |
+| FireDEX Butler | 3.7 | 13 | Yes |
+| Restore It | 5.0 | 68 | Not listed |
+| Mold Medics (Beaver County) | 5.0 | 49 | Not listed |
+| Mold Pros of Western PA | 5.0 | 88 | Not listed |
+| Mold Medics (Pittsburgh) | 5.0 | 697 | Not listed |
 
 ## FireDEX Butler: Local Mold Remediation Since 1981
 

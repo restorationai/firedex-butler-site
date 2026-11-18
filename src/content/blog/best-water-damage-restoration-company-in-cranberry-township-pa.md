@@ -29,11 +29,11 @@ For everyone else doing their research before a loss hits, here is a straight co
 
 | Company | Google Rating | Reviews | 24/7 Emergency | PA Licensed |
 |---|---|---|---|---|
-| FireDEX Butler | 5.0 |, | Yes | Yes (PA001913) |
-| Restore It | 5.0 | 67 |, |, |
-| G.S. Jones Restoration Consulting | 4.4 | 56 |, |, |
-| Pennsylvania Water and Fire | 5.0 | 735 |, |, |
-| Un-Flood-It Emergency Water Removal | 5.0 | 80 |, |, |
+| FireDEX Butler | 3.7 | 13 | Yes | Yes (PA001913) |
+| Restore It | 5.0 | 67 | Not listed | Not listed |
+| G.S. Jones Restoration Consulting | 4.4 | 56 | Not listed | Not listed |
+| Pennsylvania Water and Fire | 5.0 | 735 | Not listed | Not listed |
+| Un-Flood-It Emergency Water Removal | 5.0 | 80 | Not listed | Not listed |
 
 ---
 
