@@ -75,6 +75,8 @@ export const brand = {
   trustBadges: [] as string[],
   jobPhotos: [] as string[],
   sameAsUrls: ["https://www.google.com/maps?cid=14805396469301132499", "https://www.linkedin.com/in/cathi-olinger-82523515", "https://acrirlty.com/provider/firedex-butler/", "https://www.yelp.com/biz/firedex-of-butler-evans-city-2", "https://www.bbb.org/us/pa/cranberry-twp/profile/building-restoration/firedex-of-butler-inc-0141-12002805", "https://www.homeadvisor.com/rated.FiredexofButlerInc.22614897.html", "https://www.facebook.com/FireDex/", "https://www.houzz.com/professionals/general-contractors/firedex-of-butler-inc-pfvwus-pf~26200651"] as string[],
+  credentials: [{"name": "Contractor License", "kind": "license", "number": "PA001913", "authority": "Pennsylvania Attorney General — Home Improvement Contractor Registration", "state": "PA", "url": "https://hicsearch.attorneygeneral.gov/", "holder": "company"}] as { name: string; kind: string; number?: string; authority?: string; url?: string; since?: string; state?: string; holder?: string; course?: string }[],
+  credentialsLine: [{"text": "Licensed in PA (#PA001913)"}] as { text: string; url?: string }[],
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "3.7",
