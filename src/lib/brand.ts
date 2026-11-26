@@ -64,7 +64,7 @@ export const brand = {
   clarityProjectId: "",
   logoUrl: "/images/logo.png",
   licenseNumbers: ["PA001913"] as string[],
-  licenseAuthority: "Pennsylvania Attorney General — Home Improvement Contractor Registration",
+  licenseAuthority: "Pennsylvania Attorney General: Home Improvement Contractor Registration",
   // State license-verification page — the footer links the license number here.
   licenseLookupUrl: "https://hicsearch.attorneygeneral.gov/",
   licenseType: "",
@@ -75,7 +75,7 @@ export const brand = {
   trustBadges: [] as string[],
   jobPhotos: [] as string[],
   sameAsUrls: ["https://www.google.com/maps?cid=14805396469301132499", "https://www.linkedin.com/in/cathi-olinger-82523515", "https://acrirlty.com/provider/firedex-butler/", "https://www.yelp.com/biz/firedex-of-butler-evans-city-2", "https://www.bbb.org/us/pa/cranberry-twp/profile/building-restoration/firedex-of-butler-inc-0141-12002805", "https://www.homeadvisor.com/rated.FiredexofButlerInc.22614897.html", "https://www.facebook.com/FireDex/", "https://www.houzz.com/professionals/general-contractors/firedex-of-butler-inc-pfvwus-pf~26200651"] as string[],
-  credentials: [{"name": "Contractor License", "kind": "license", "number": "PA001913", "authority": "Pennsylvania Attorney General — Home Improvement Contractor Registration", "state": "PA", "url": "https://hicsearch.attorneygeneral.gov/", "holder": "company"}] as { name: string; kind: string; number?: string; authority?: string; url?: string; since?: string; state?: string; holder?: string; course?: string }[],
+  credentials: [{"name": "Contractor License", "kind": "license", "number": "PA001913", "authority": "Pennsylvania Attorney General: Home Improvement Contractor Registration", "state": "PA", "url": "https://hicsearch.attorneygeneral.gov/", "holder": "company"}] as { name: string; kind: string; number?: string; authority?: string; url?: string; since?: string; state?: string; holder?: string; course?: string }[],
   credentialsLine: [{"text": "Licensed in PA (#PA001913)"}] as { text: string; url?: string }[],
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
@@ -87,7 +87,7 @@ export const brand = {
     { author: "Matt", rating: 5, text: "FireDex of Butler has always been there when I needed them. From restoration to construction, they have professionally performed several jobs for me. I would highly recommend this company for their service, expertise, and value.", when: "April 2020" },
     { author: "Michael", rating: 5, text: "Big stone job underway when the mason crew discovered one of the biggest components of the job - our chimney - was decayed and structurally to weak to support the additional weight of stone veneer. Time is money and our stone masons needed to keep working. Fire Dex of Butler came in and…", when: "April 2019" },
   ] as { author: string; rating: number; text: string; when: string }[],
-  tagline: "Water • Fire • Storm Restoration — 24/7 emergency response across Cranberry Township, Butler County and the Pittsburgh North suburbs since 1981.",
+  tagline: "Water • Fire • Storm Restoration: 24/7 emergency response across Cranberry Township, Butler County and the Pittsburgh North suburbs since 1981.",
   ctaLabel: "24/7 Emergency Line",
   // Vertical trade-identity copy — resolved at scaffold time from
   // templates/{vertical}/vertical-tokens.json (see scripts/verticals.py).
@@ -98,7 +98,7 @@ export const brand = {
   tradeNoun: "restoration",
   specialistPhrase: "Damage Restoration Specialists",
   announcementSuffix: "24/7 Emergency Response",
-  homeAboutBlurb: "FireDEX Butler serves Cranberry Township and the surrounding PA area with professional damage restoration for homes and businesses. From the first emergency call to the final walkthrough, our team manages the entire recovery — and we answer the phone 24/7, so help is on the way the moment something goes wrong.",
+  homeAboutBlurb: "FireDEX Butler serves Cranberry Township and the surrounding PA area with professional damage restoration for homes and businesses. From the first emergency call to the final walkthrough, our team manages the entire recovery, and we answer the phone 24/7, so help is on the way the moment something goes wrong.",
 } as const;
 
 export const entityId = `${brand.canonicalUrl}/#identity`;
